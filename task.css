@@ -1,0 +1,44 @@
+.nav2{
+    background-color: rgb(4, 4, 90);
+    
+}
+
+
+.navbar li{
+list-style: none;
+display: inline;
+font-size: 24px;
+}
+.bs img{
+    
+    height:450px;
+}
+.icon i{
+    font-size: 50px;
+    color: rgb(4, 4, 90);
+}
+footer{
+    background-color:#071952 ;
+    color: white;
+}
+.top{
+    font-size:70px;
+    width: 90px;
+    height: 90px;
+    background-color: #071952;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    text-align: center;
+    color: white;
+    position: fixed;
+    top:550px;
+    right: 0;
+}
+.more{
+    background-image: url(./images/banner2.jpg);
+    height:300px;
+    margin-top: 50px;
+}
